@@ -1,0 +1,229 @@
+h1{color:rgb(10, 10, 10);
+    margin-bottom: 0%;
+text-align: center;
+font-size: 100px;
+margin-top: 5%;
+font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-shadow:
+3px 3px 0 rgba(255, 145, 0, 0.671),
+-3px 3px 0  rgba(255, 145, 0, 0.671),
+-3px -3px 0  rgba(255, 145, 0, 0.671),
+3px -3px 0  rgba(255, 145, 0, 0.671);
+}
+.jewelstudios {width: 1000px;
+    height: 1000px;
+    border-radius: 60%;
+}
+.welcome { font-size: 30px;
+
+    background-color: rgb(12, 12, 12);
+    color: white;
+    margin-left: 70px;
+    margin-right: 70px;
+    font-family: fantasy;
+    text-shadow:
+    3px 3px 0 rgba(255, 145, 0, 0.671),
+    -3px 3px 0  rgba(255, 145, 0, 0.671),
+    -3px -3px 0  rgba(255, 145, 0, 0.671),
+    3px -3px 0  rgba(255, 145, 0, 0.671);
+    
+}
+
+.div1{color: rgb(8, 8, 8);
+    z-index:1;
+margin-right: 5%;
+border-width: 50px;
+max-width: 100%;
+max-height: 50px;
+position: fixed;
+top: 0;
+width: 100%;
+}
+
+.selector{color:rgb(7, 7, 7);
+    margin-right: 45px;
+   text-align: center;
+    text-decoration-line: underline;
+    font-size: 35px;
+background-size: contain;
+    display: inline-flex;
+    font-family: fantasy;
+    padding-left: 7px;
+    position: sticky;
+    text-shadow:
+3px 3px 0 rgba(255, 145, 0, 0.671),
+-3px 3px 0  rgba(255, 145, 0, 0.671),
+-3px -3px 0  rgba(255, 145, 0, 0.671),
+3px -3px 0  rgba(255, 145, 0, 0.671);
+}
+
+.selector1{ color:rgb(7, 7, 6);
+    font-family: fantasy;
+    margin-right: 28px;
+    text-align: center;
+    font-size: 35px;
+background-size: contain;
+    display: inline-flex;
+    text-decoration-line: underline;
+    padding-left: 3px;
+    position: sticky;
+    text-shadow:
+    3px 3px 0 rgba(255, 145, 0, 0.671),
+    -3px 3px 0  rgba(255, 145, 0, 0.671),
+    -3px -3px 0  rgba(255, 145, 0, 0.671),
+    3px -3px 0  rgba(255, 145, 0, 0.671);
+    }
+
+    .honesty{
+        width: 500px;
+    height: 500px;
+    margin-left: 425px;
+    animation-name: pulse;
+    animation-duration: 5s;
+    }
+
+.seperate{margin-top: 20%;}
+
+p{color: rgb(5, 5, 5);
+border-radius: 15%;
+margin-left: 3%;
+margin-right: 3%;
+text-align: center;
+}
+
+.SMV{
+    padding-left: 37%;
+    
+}
+blockquote{max-width: 683px;
+    max-height: 620px;
+   left: 15px;
+
+}
+
+
+iframe{min-width: 700px;
+    min-height: 350px;
+margin-left: 24%;
+margin-top: 25px;
+    margin-bottom: 25px;
+    padding-top: 15px;
+}
+
+
+.section{color:rgb(7, 7, 7);
+font-size: 95px;
+text-align: center;
+font-family: fantasy;
+position: sticky;
+text-shadow:
+3px 3px 0 rgba(255, 145, 0, 0.671),
+-3px 3px 0  rgba(255, 145, 0, 0.671),
+-3px -3px 0  rgba(255, 145, 0, 0.671),
+3px -3px 0  rgba(255, 145, 0, 0.671);
+}
+
+.nav-link1{margin-top: 5%;
+position: sticky;
+
+z-index: 1;
+}
+
+.social{display: block;
+    margin-left: 42%;
+    object-position: 30% 25%;
+    margin-bottom: 10%;
+margin-top: 10%;
+
+}
+.family{
+    width: 500px;
+    height: 500px; 
+    left: 50px;  
+    border-radius: 50%; 
+    transform-origin: 5 50%;
+    margin-bottom: 50px ;
+    position: relative;
+    top: -25px;
+left: 175px;
+}
+.father{
+    width: 500px;
+    height: 500px; 
+    left: 50px;  
+    border-radius: 50%; 
+    transform-origin: 5 50%;
+    margin-bottom: 50px ;
+    position: relative;
+    left:200px;
+    right:100px;
+    top: -25px;
+}.me{ width: 500px;
+    height: 500px; 
+    left: 50px;  
+    border-radius: 50%; 
+    transform-origin: 5 50%;
+    margin-bottom: 50px ;
+    position: relative;
+    left: 175px;
+    top: -72px;
+}.track{
+    width: 500px;
+    height: 500px; 
+    left: 50px;  
+    border-radius: 50%; 
+    transform-origin: 5 50%;
+    margin-bottom: 50px ;
+    position: relative;
+    overflow: hidden;
+    object-fit: cover;
+object-position: 30% 25%;
+left:200px;
+right:100px;
+top: -72px;
+}
+
+
+a:link {
+    color: rgb(3, 3, 3);
+  }
+  
+  a:visited {
+    color:rgb(8, 8, 8);
+  }
+  
+  a:hover {
+    color: blue;
+  }
+  
+  a:active {
+    color: black;
+  }
+  
+  a:link, a:visited {
+    text-decoration: none;
+  }
+
+  
+  body{
+    background-image: url(Your\ paragraph\ text\ \(2\)\ \(1\).png); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 1000px 1000px;
+    background-attachment: fixed;
+    background-origin: initial;
+    z-index: 2;
+    background-color: rgb(109, 108, 108);
+  }
+  .grtj{font-size: 30px;
+    font-weight: bold;
+    background-color: rgb(12, 12, 12);
+    color: rgba(255, 255, 255, 0.801);
+    margin-left: 200px;
+    margin-right: 200px;
+text-shadow:
+3px 3px 0 rgba(255, 145, 0, 0.671),
+-3px 3px 0  rgba(255, 145, 0, 0.671),
+-3px -3px 0  rgba(255, 145, 0, 0.671),
+3px -3px 0  rgba(255, 145, 0, 0.671);
+  }
